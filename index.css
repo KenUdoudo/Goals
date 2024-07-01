@@ -22,6 +22,7 @@ h1 {
     flex-wrap: wrap;
     gap: 10px;
     padding: 0 0px 0 20px;
+    justify-content: center;
 }
 .first-flex a{
     text-decoration: none;
@@ -36,4 +37,7 @@ h1 {
     border-bottom-right-radius: 50px;
     padding: 10px 20px;
     margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
