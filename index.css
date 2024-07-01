@@ -1,8 +1,21 @@
 body {
     background-color: black;
 }
+.container{
+    padding: 0 20px 0 20px;
+}
 h1 {
     color: #beb2a0;
     text-align: center;
     font-size: 45px;
+}
+.first-flex{
+    color: #beb2a0;
+}
+.first-flex a{
+    text-decoration: none;
+    color: #beb2a0;
+}
+.first-flex a:hover{
+    cursor: pointer;
 }
