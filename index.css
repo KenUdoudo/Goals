@@ -1,16 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: black;
 }
 .container{
-    padding: 0 20px 0 20px;
+    padding-right: 20px;
 }
 h1 {
     color: #beb2a0;
     text-align: center;
     font-size: 45px;
+    padding: 20px 20px;
 }
 .first-flex{
     color: #beb2a0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0 0px 0 20px;
 }
 .first-flex a{
     text-decoration: none;
@@ -18,4 +29,11 @@ h1 {
 }
 .first-flex a:hover{
     cursor: pointer;
+}
+.second {
+    background-color: #beb2a0;
+    border-top-right-radius: 100%;
+    border-bottom-right-radius: 100%;
+    padding: 10px 20px;
+    margin-top: 30px;
 }
