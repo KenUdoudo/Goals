@@ -43,3 +43,9 @@ h1 {
     flex-direction: column;
     gap: 20px;
 }
+.second div h3{
+    font-family: "Anton SC", sans-serif;
+}
+.second div p{
+    font-family: "Poppins", sans-serif;
+}
