@@ -68,5 +68,9 @@ img {
         gap: 50px;
         padding: 40px 20px;
     }
+    h1{
+        font-size: 70px;
+        font-weight: 700;
+    }
 }
 
