@@ -27,7 +27,7 @@ h1 {
     font-family: "Poppins", sans-serif;
 }
 .first-flex a{
-    text-decoration: none;
+    text-decoration: underline;
     color: #beb2a0;
 }
 .first-flex a:hover{
@@ -48,4 +48,5 @@ h1 {
 }
 .second div p{
     font-family: "Poppins", sans-serif;
+    text-align: justify;
 }
