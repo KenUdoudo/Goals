@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 body {
-    background-color: black;
+    background-color: #334b35;
 }
 .container{
-    padding-right: 20px;
+    padding: 20px 20px 20px 0;
 }
 h1 {
     color: #beb2a0;
@@ -50,3 +50,4 @@ h1 {
     font-family: "Poppins", sans-serif;
     text-align: justify;
 }
+
